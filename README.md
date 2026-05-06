@@ -1,5 +1,10 @@
 # PlantronicsPTT
 A PTT Adapter for Baofeng radios with Plantronics QD headsets. 
+### Motive
+I made this as I recently bought a Plantronics EncorePro HW540 and I would like to use it with my Baofeng UV-5R/5RM/5G Pro series radios.
+
+## WARNING
+THIS ADAPTER MAY ONLY BE USED WITH HEADSETS WITH ELECTRET MICROPHONES. +5V IS SUPPLIED THROUGH THE MIC+ PIN FOR POWERING ELECTRETS AND USING STANDARD HEADPHONES MAY RESULT IN PROPERTY DAMAGE.
 
 ## Features
 * TRRS Output for Headsets with Electret Microphone Power
