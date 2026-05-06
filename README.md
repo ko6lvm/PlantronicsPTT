@@ -28,3 +28,5 @@ THIS ADAPTER MAY ONLY BE USED WITH HEADSETS WITH ELECTRET MICROPHONES. +5V IS SU
 | UNI-ROYAL 0603WAF2201T5E | R0603 2.2K C4190 | 100 | 0.15 | [LCSC](https://www.lcsc.com/product-detail/C4190.html) |
 | PCB | FR4 2 Layer | 5 | 2.10 | JLCPCB |
 | Plantronics QD to TRRS | Plantronics QD Adapter | 1 | 12.90 | [Amazon](https://www.amazon.com/Headset-Adapter-Compatible-Plantronics-Smartphone/dp/B0CFKS1XV2?th=1) |
+
+*Does not include applicable shipping, tools, or taxes.*
