@@ -43,7 +43,7 @@ THIS ADAPTER MAY ONLY BE USED WITH HEADSETS WITH ELECTRET MICROPHONES. +5V IS SU
 
 ## Acknowledgements
 * The Hack Foundation (d.b.a. Hack Club), Stasis - Funding
-* This project was done with LVMLabs, https://labs.ko6lvm.org
+* LVMLabs, https://labs.ko6lvm.org
 
 ## Copyright
 * Copyright 2026 Jeongwoo "Ryan" Kim KO6LVM and LVMLabs
