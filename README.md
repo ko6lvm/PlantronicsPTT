@@ -17,6 +17,9 @@ THIS ADAPTER MAY ONLY BE USED WITH HEADSETS WITH ELECTRET MICROPHONES. +5V IS SU
 <img width="2104" height="1275" alt="image" src="https://github.com/user-attachments/assets/4672d466-9196-4c76-aff1-4a1327cf6d2d" />
 <img width="2335" height="862" alt="image" src="https://github.com/user-attachments/assets/7763f33e-3156-47f1-bf81-c90d83b6ffd3" />
 <img width="1919" height="873" alt="image" src="https://github.com/user-attachments/assets/1f328c47-68da-4e14-a667-c6e956a1efb7" />
+<img width="1416" height="1445" alt="image" src="https://github.com/user-attachments/assets/fd25b567-ff6e-43a7-a0f3-1bb317583188" />
+<img width="2466" height="1422" alt="image" src="https://github.com/user-attachments/assets/9860aa77-e1c0-4c8d-8a66-ff79e2fdf140" />
+
 
 
 ## BoM
