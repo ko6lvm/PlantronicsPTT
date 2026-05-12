@@ -1,4 +1,6 @@
 # PlantronicsPTT
+<img width="500" alt="plantronicsptt" src="https://github.com/user-attachments/assets/6f020fbc-74dc-4de3-8c39-c3db99941ef5" />
+
 A PTT Adapter for Baofeng radios with Plantronics QD headsets. 
 ### Motive
 I made this as I recently bought a Plantronics EncorePro HW540 and I would like to use it with my Baofeng UV-5R/5RM/5G Pro series radios.
